@@ -32,3 +32,12 @@ This course can be accessed via Obsidian, a helpful note taking tool.
 [Compiler](Compiler.md)
 
 [Variables](Variables.md)
+
+[Objects](Objects.md)
+
+[Lower level language](Lower%20level%20language.md)
+
+[List](List.md)
+
+[Functions](Functions.md)
+
