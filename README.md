@@ -5,7 +5,7 @@ This two-day introductory course (4 hours total) is designed for programmers alr
 
 The course combines concise lectures with **interactive coding exercises** and **hands-on practice sessions**. Topics are structured to build progressively, reinforcing concepts through real-world examples and problem-solving activities. Participants will:
 
-- Compare Python/Fortran abstractions with C/F90 implementations;
+- Compare Python/R abstractions with C/F90 implementations;
     
 - Write and debug low-level code to optimize common tasks.
 
