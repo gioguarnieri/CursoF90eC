@@ -1,0 +1,25 @@
+```C
+#include <stdio.h>  
+  
+int main() {  
+  printf("Hello World!");  
+  return 0;  
+}
+```
+
+## \#include <stdio.h>
+The include in C calls for headers. It is similar from the "import" in Python, however, it can calls for other files, not only modules and packages.
+
+Here, it is calling the STanDard In and Out library of C.
+
+C is a highly optimized language, hardly you'll call for libraries that you won't use extensively.
+
+## int main()
+
+The "int" is exactly what you are thinking. The main function is declared as an integer. Notice that at the end, there is a "return 0". This means that if the code runs well, it will return a 0 value to your OS.
+
+Here we are create our "main" function. Without a main function your program won't do much besides declaring [Functions](Functions%20in%20C.md). The code inside the brackets {} will be executed.
+
+## The "printf("Hello World!");" 
+
+The printf is a basic print function of C. It shows the message inside " " in the terminal.

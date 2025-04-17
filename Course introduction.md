@@ -1,6 +1,16 @@
 This course is made minding people who already know how to program. However, we won't leave the non-programmers exploded in the sidewalk. If you don't know what I am talking about it is purple, click on it to lead you into an explanation.
 
 So, we start the course talking about what is different between C and F90 from Python and R (maybe others but idk).
+
+## C
+
+C is a general-purpose programming language. It was created in the 1970s by Dennis Ritchie and remains very widely used and influential.
+
+A successor to the programming language B, C was originally developed at Bell Labs by Ritchie between 1972 and 1973 to construct utilities running on Unix. It was applied to re-implementing the kernel of the Unix operating system. During the 1980s, C gradually gained popularity. It has become one of the most widely used programming languages, with C compilers available for practically all modern computer architectures and operating systems. [Source: Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
+
+## Fortran
+
+Fortran (FORmula TRANslation) was originally developed by IBM with a reference manual being released in 1956, however the first compilers only began to produce accurate code two years later. Fortran computer programs have been written to support scientific and engineering applications, such as numerical weather prediction, finite element analysis, computational fluid dynamics, plasma physics, geophysics, computational physics, crystallography and computational chemistry. It is a popular language for high-performance computing and is used for programs that benchmark and rank the world's fastest supercomputers. [Source: Wikipedia](https://en.wikipedia.org/wiki/Fortran) 
 ## Compiled language
 ### Advantages
 - [Lower level language](Lower%20level%language);
@@ -121,3 +131,6 @@ AxB = np.dot(A,B)
 
 AxB
 ```
+
+
+Let's start to understand the language in [[Dissecting the Hello world]].
