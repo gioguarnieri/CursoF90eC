@@ -19,6 +19,10 @@ This course can be accessed via Obsidian, a helpful note taking tool.
 
 [Vectors and Matrices in C](Vectors%20and%20Matrices%20in%20C.md)
 
+[Loops in C](Loops%20in%20C.md)
+
+[Conditionals in C](Conditionals%20in%20C.md)
+
 [Functions in C](Functions%20in%20C.md)
 
 ### Some definitions
