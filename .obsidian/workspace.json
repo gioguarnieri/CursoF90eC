@@ -13,15 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Notes/Exercises.md",
+                "file": "C/Notes/Declaring and obtaining variables in C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exercises"
+              "title": "Declaring and obtaining variables in C"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -41,7 +42,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -181,15 +182,15 @@
   },
   "active": "09328748a14f6da1",
   "lastOpenFiles": [
-    "C/Notes/Functions in C.md",
-    "C/Notes/Loops in C.md",
     "C/Notes/Vectors and Matrices in C.md",
-    "README.md",
+    "C/Notes/Loops in C.md",
+    "C/Notes/Functions in C.md",
     "C/Notes/Exercises.md",
     "C/Notes/Dissecting the Hello world.md",
-    "C/Notes/Declaring and obtaining variables in C.md",
     "C/Notes/Conditionals in C.md",
+    "C/Notes/Declaring and obtaining variables in C.md",
     "Course introduction.md",
+    "README.md",
     "Compiler.md",
     "Functions.md",
     "List.md",

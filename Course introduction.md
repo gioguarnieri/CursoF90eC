@@ -21,6 +21,7 @@ Fortran (FORmula TRANslation) was originally developed by IBM with a reference m
 - Harder to programmers understand;
 - Easier to make a mess;
 - Windows hates you if you try to compile things.
+
 ## [Variables](Variables.md)
 The basic types, same as Python and R. But a little different:
 #### They have to be declared before you use them and they are not [Objects](Objects.md).
