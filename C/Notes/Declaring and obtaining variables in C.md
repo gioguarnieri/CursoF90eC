@@ -1,19 +1,50 @@
 
 ## Fundamental data types
 
-### Size in memory
+### Declaring variables and their size in memory
 
-| Type           | Size in memory |
-| -------------- | -------------- |
-| char           | 1 byte         |
-| unsigned char  | 1 byte         |
-| signed char    | 1 byte         |
-| int            | 2 or 4 bytes   |
-| unsigned int   | 2 or 4 bytes   |
-| short          | 2 bytes        |
-| unsigned short | 2 bytes        |
-| long           | 8 bytes        |
-| unsigned long  | 8 bytes        |
+
+```C
+#include <stdio.h>
+
+int main() {
+    // Basic types
+    char c;
+    short s;
+    int i;
+    long l;
+    long long ll;
+    float f;
+    double d;
+    long double ld;
+    
+    // Print sizes using sizeof
+    printf("Basic types:\n");
+    printf("char:          %2zu bytes\n", sizeof(c));
+    printf("short:         %2zu bytes\n", sizeof(s));
+    printf("int:           %2zu bytes\n", sizeof(i));
+    printf("long:          %2zu bytes\n", sizeof(l));
+    printf("long long:     %2zu bytes\n", sizeof(ll));
+    printf("float:         %2zu bytes\n", sizeof(f));
+    printf("double:        %2zu bytes\n", sizeof(d));
+    printf("long double:   %2zu bytes\n", sizeof(ld));
+
+
+    return 0;
+}
+```
+
+>[!question]- Output
+>Basic types:
+char:           1 bytes
+short:          2 bytes
+int:            4 bytes
+long:           8 bytes
+long long:      8 bytes
+float:          4 bytes
+double:         8 bytes
+long double:   16 bytes
+
 
 
 ### Limits
@@ -64,11 +95,63 @@ int main(int argc, char** argv) {
 >ULONG_MAX   :   18446744073709551615
 >USHRT_MAX   :   65535
 
+## Output and input
+
+### Specifiers
+
+```C
+#include <stdio.h>
+#include <stdint.h>
+
+int main() {
+    // Character types
+    char c = 'A';
+
+    // Integer types
+    short s = -32768;
+    unsigned short us = 65535;
+    int i = -2147483648;
+    unsigned int ui = 4294967295U;
+    long l = -2147483647L;
+    unsigned long ul = 4294967295UL;
+    long long ll = -9223372036854775807LL;
+    unsigned long long ull = 18446744073709551615ULL;
+
+    // Floating-point types
+    float f = 3.14159F;
+    double d = 3.141592653589793;
+    long double ld = 3.14159265358979323846L;
+
+    // String
+    char str[] = "Hello, World!";
 
 
+    // Printing using format specifiers
+    printf("Character types:\n");
+    printf("char:          %c\n", c);          // %c for character
 
+    printf("Integer types:\n");
+    printf("short:         %hd\n", s);        // %hd for short
+    printf("unsigned short:%hu\n", us);       // %hu for unsigned short
+    printf("int:           %d\n", i);         // %d for int
+    printf("unsigned int:  %u\n", ui);        // %u for unsigned int
+    printf("long:          %ld\n", l);        // %ld for long
+    printf("unsigned long: %lu\n", ul);       // %lu for unsigned long
+    printf("long long:     %lld\n", ll);      // %lld for long long
+    printf("unsigned llong:%llu\n\n", ull);   // %llu for unsigned long long
 
-## Input and output
+    printf("Floating-point types:\n");
+    printf("float:         %.2f\n", f);       // %f for float (6 decimal digits default)
+    printf("double:        %.15lf\n", d);     // %lf for double
+    printf("long double:   %.21Lf\n\n", ld);  // %Lf for long double
+
+    printf("String:\n");
+    printf("string:        %s\n\n", str);     // %s for null-terminated strings
+
+    return 0;
+}
+```
+
 
 
 
