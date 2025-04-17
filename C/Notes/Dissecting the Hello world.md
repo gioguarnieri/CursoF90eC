@@ -37,4 +37,4 @@ int main(){printf("Hello World!");return 0;}
 
 But why would you do that?
 
-[Next: declaring variable](Declaring%20variables%20in%20C.md)
+[Next: declaring variables](Declaring%20variables%20in%20C.md)
