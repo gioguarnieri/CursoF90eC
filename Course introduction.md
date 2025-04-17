@@ -15,23 +15,23 @@ Fortran (FORmula TRANslation) was originally developed by IBM with a reference m
 ### Advantages
 - [Lower level language](Lower%20level%language);
 - Better hardware control;
-- Embedded optimization in the [[Compiler]]; 
+- Embedded optimization in the [Compiler](Compiler.md); 
 - Faster code execution.
 ### Disadvantages
 - Harder to programmers understand;
 - Easier to make a mess;
 - Windows hates you if you try to compile things.
-## [[Variables]]
+## [Variables](Variables.md)
 The basic types, same as Python and R. But a little different:
 #### They have to be declared before you use them and they are not objects.
 
 In Python all variables are objects. Most of them have built-in functions i.e. list.append(x) called methods. However, if you want an object in C and F90 you need to create it yourself (and it is boooooooooring, and kind of advanced, so I'm not going to teach it here).
 
-What does it means? Let's see in the example: [[#Same operation in Python, C and F90]]
+What does it means? Let's see in the example: [#Same operation in Python, C and F90](#Same%20operation%20in%20Python,%20C%20and%20F90)
 
-## Running and creating [[vectors]]
+## Running and creating [vectors](vectors)
 
-You have to know the size of the vector you are going to need. If you do not, you are looking for a [[List]].
+You have to know the size of the vector you are going to need. If you do not, you are looking for a [List](List).
 ## Same operation in Python, C and F90
 
 ### Multiplying matrices in C
@@ -133,4 +133,4 @@ AxB
 ```
 
 
-Let's start to understand the language in [[Dissecting the Hello world]].
+Let's start to understand the language in [Dissecting the Hello world](Dissecting%20the%20Hello%20world.md).

@@ -27,3 +27,13 @@ The printf is a basic print function of C. It shows the message inside " " in th
 Every line in C needs a ; to close.
 
 Yes, it is annoying.
+
+C ignores white space completely, the code could be written as 
+
+```C
+int main(){printf("Hello World!");return 0;}
+```
+
+But why would you do that?
+
+[Next: declaring variable](Declaring%20variables%20in%20C.md)
