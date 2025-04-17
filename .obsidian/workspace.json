@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Notes/Conditionals in C.md",
+                "file": "C/Notes/Declaring variables in C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conditionals in C"
+              "title": "Declaring variables in C"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Notes/Conditionals in C.md",
+                "file": "C/Notes/Declaring variables in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Conditionals in C"
+              "title": "Backlinks for Declaring variables in C"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Notes/Conditionals in C.md",
+                "file": "C/Notes/Declaring variables in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Conditionals in C"
+              "title": "Outgoing links from Declaring variables in C"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Notes/Conditionals in C.md",
+                "file": "C/Notes/Declaring variables in C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Conditionals in C"
+              "title": "Outline of Declaring variables in C"
             }
           },
           {
@@ -181,20 +181,20 @@
   },
   "active": "09328748a14f6da1",
   "lastOpenFiles": [
+    "C/Notes/Conditionals in C.md",
     "C/Notes/Declaring variables in C.md",
     "C/Notes/Dissecting the Hello world.md",
     "C/Notes/Exercises.md",
     "C/Notes/Functions in C.md",
-    "C/Notes/Conditionals in C.md",
     "C/Notes/Loops in C.md",
     "C/Notes/Vectors and Matrices in C.md",
-    "Course introduction.md",
+    "Variables.md",
+    "README.md",
+    "Lower level language.md",
     "List.md",
     "Functions.md",
+    "Course introduction.md",
     "Compiler.md",
-    "Lower level language.md",
-    "README.md",
-    "Variables.md",
     "Vectors.md",
     "C/Codes/HelloWorld.c.md",
     "C/Notes/C standard functions.md",
