@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "C/Notes/Conditionals in C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Conditionals in C"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "C/Notes/Conditionals in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Conditionals in C"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "C/Notes/Conditionals in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Conditionals in C"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "C/Notes/Conditionals in C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Conditionals in C"
             }
           },
           {
@@ -181,19 +181,22 @@
   },
   "active": "09328748a14f6da1",
   "lastOpenFiles": [
-    "Course introduction.md",
-    "C/Notes/Vectors and Matrices in C.md",
-    "C/Notes/Functions in C.md",
-    "C/Notes/Exercises.md",
-    "C/Notes/Dissecting the Hello world.md",
     "C/Notes/Declaring variables in C.md",
-    "C/Codes/HelloWorld.c.md",
-    "README.md",
-    "Lower level language.md",
-    "Variables.md",
+    "C/Notes/Dissecting the Hello world.md",
+    "C/Notes/Exercises.md",
+    "C/Notes/Functions in C.md",
+    "C/Notes/Conditionals in C.md",
+    "C/Notes/Loops in C.md",
+    "C/Notes/Vectors and Matrices in C.md",
+    "Course introduction.md",
     "List.md",
     "Functions.md",
     "Compiler.md",
+    "Lower level language.md",
+    "README.md",
+    "Variables.md",
+    "Vectors.md",
+    "C/Codes/HelloWorld.c.md",
     "C/Notes/C standard functions.md",
     "Images",
     "Linguagem de baixo nível.md",

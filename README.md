@@ -17,6 +17,10 @@ This course can be accessed via Obsidian, a helpful note taking tool.
 
 [Declaring variables in C](Declaring%20variables%20in%20C.md)
 
+[[Vectors and Matrices in C]]
+
+[[Functions in C]]
+
 ### Some definitions
 
 [Compiler](Compiler.md)
