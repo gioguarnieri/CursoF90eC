@@ -22,4 +22,8 @@ Here we are create our "main" function. Without a main function your program won
 
 ## The "printf("Hello World!");" 
 
-The printf is a basic print function of C. It shows the message inside " " in the terminal.
+The printf is a basic print function of C. It shows the message inside " " in the terminal. Notice how the line ends with ; 
+
+Every line in C needs a ; to close.
+
+Yes, it is annoying.
