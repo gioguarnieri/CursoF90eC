@@ -10,12 +10,14 @@ The course combines concise lectures with **interactive coding exercises** and *
 - Write and debug low-level code to optimize common tasks.
 
 This course can be accessed via Obsidian, a helpful note taking tool.
-### Main course
+## Main course
+
 [Course introduction](Course%20introduction.md)
+## C
 
 [Dissecting the Hello world](Dissecting%20the%20Hello%20world.md)
 
-[Declaring variables in C](Declaring%20variables%20in%20C.md)
+[Declaring and obtaining variables in C](Declaring%20and%20obtaining%20variables%20in%20C.md)
 
 [Vectors and Matrices in C](Vectors%20and%20Matrices%20in%20C.md)
 
