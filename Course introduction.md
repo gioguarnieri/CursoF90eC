@@ -23,7 +23,7 @@ Fortran (FORmula TRANslation) was originally developed by IBM with a reference m
 - Windows hates you if you try to compile things.
 ## [Variables](Variables.md)
 The basic types, same as Python and R. But a little different:
-#### They have to be declared before you use them and they are not objects.
+#### They have to be declared before you use them and they are not [Objects](Objects.md).
 
 In Python all variables are objects. Most of them have built-in functions i.e. list.append(x) called methods. However, if you want an object in C and F90 you need to create it yourself (and it is boooooooooring, and kind of advanced, so I'm not going to teach it here).
 
@@ -132,5 +132,7 @@ AxB = np.dot(A,B)
 AxB
 ```
 Notice that we even generated a random matrix, while in the others we did it as a single pre-defined matrix.
+
+Actually C can be way simpler (and faster) than that when using LAPACK (Linear Algebra Package). But installing and using LAPACK isn't as easy as "pip install LAPACK"
 
 Let's start to understand the language in [Dissecting the Hello world](Dissecting%20the%20Hello%20world.md).
