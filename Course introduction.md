@@ -131,6 +131,6 @@ AxB = np.dot(A,B)
 
 AxB
 ```
-
+Notice that we even generated a random matrix, while in the others we did it as a single pre-defined matrix.
 
 Let's start to understand the language in [Dissecting the Hello world](Dissecting%20the%20Hello%20world.md).

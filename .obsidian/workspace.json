@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Notes/Dissecting the Hello world.md",
+                "file": "Course introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dissecting the Hello world"
+              "title": "Course introduction"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Notes/Dissecting the Hello world.md",
+                "file": "Course introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dissecting the Hello world"
+              "title": "Backlinks for Course introduction"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Notes/Dissecting the Hello world.md",
+                "file": "Course introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dissecting the Hello world"
+              "title": "Outgoing links from Course introduction"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Notes/Dissecting the Hello world.md",
+                "file": "Course introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dissecting the Hello world"
+              "title": "Outline of Course introduction"
             }
           },
           {
@@ -181,19 +181,19 @@
   },
   "active": "09328748a14f6da1",
   "lastOpenFiles": [
+    "Functions.md",
+    "Course introduction.md",
+    "Compiler.md",
+    "C/Notes/Vectors and Matrices in C.md",
+    "C/Notes/Functions in C.md",
     "C/Notes/Exercises.md",
     "C/Notes/Dissecting the Hello world.md",
     "C/Notes/Declaring variables in C.md",
     "C/Codes/HelloWorld.c.md",
-    "C/Notes/Vectors and Matrices in C.md",
-    "C/Notes/Functions in C.md",
-    "Compiler.md",
-    "Course introduction.md",
     "Variables.md",
     "Lower level language.md",
     "List.md",
     "README.md",
-    "Functions.md",
     "C/Notes/C standard functions.md",
     "Images",
     "Linguagem de baixo nível.md",
