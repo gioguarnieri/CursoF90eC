@@ -11,10 +11,14 @@
             "id": "09328748a14f6da1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Course introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Course introduction"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 254.5
   },
   "right": {
     "id": "b50ddff46e5c78c7",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Course introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Course introduction"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Course introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Course introduction"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Course introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Course introduction"
             }
           },
           {
@@ -172,10 +179,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a43f41c01548ce26",
+  "active": "09328748a14f6da1",
   "lastOpenFiles": [
+    "Compiler.md",
+    "C/Notes/Vectors and Matrices in C.md",
+    "C/Notes/Hello world.md",
+    "C/Notes/Exercises.md",
+    "C/Notes/C standard functions.md",
+    "Course introduction.md",
+    "Images",
+    "Linguagem de baixo nível.md",
+    "Imagens/exemplolinguagem.png",
+    "Linguagem.md",
+    "Multiplicando matrizes em C.md",
+    "C/Notas do curso/Variáveis.md",
+    "C",
     "Untitled.md",
-    "Códigos",
-    "Notas do curso"
+    "C/Codes",
+    "C/Notes"
   ]
 }
