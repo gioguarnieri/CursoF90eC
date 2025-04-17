@@ -136,4 +136,6 @@ Notice that we even generated a random matrix, while in the others we did it as 
 
 Actually C can be way simpler (and faster) than that when using LAPACK (Linear Algebra Package). But installing and using LAPACK isn't as easy as "pip install LAPACK"
 
+We are going to use the website https://onecompiler.com to run our code, since it is simpler than installing GCC
+
 Let's start to understand the language in [Dissecting the Hello world](Dissecting%20the%20Hello%20world.md).
