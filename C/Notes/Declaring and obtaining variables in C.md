@@ -1,5 +1,12 @@
 
+Differently from Python/R, you need to declare previously your variables in C. You need to know the size of the vector you are going to use, or the size of the matrix. There is some ways to circumvent this problem of course, which won't be disclosed in this course.
 ## Fundamental data types
+
+To declare your variables you need to know the type you will be using. If you are declaring a counter, you'll probably need an "int" type and if you are storing names you'll need a "char" type.
+
+Knowing the type of data and the ranges of your program is a step forward the optimization of your code.
+
+Let's see some examples in code!
 
 ### Declaring variables and their size in memory
 
@@ -151,6 +158,7 @@ int main() {
     return 0;
 }
 ```
+
 
 
 

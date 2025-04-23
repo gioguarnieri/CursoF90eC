@@ -11,14 +11,14 @@
             "id": "09328748a14f6da1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/appearance.json",
-                "bFile": ".obsidian/appearance.json",
-                "aRef": ""
+                "file": "C/Notes/Declaring and obtaining variables in C.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: appearance.json"
+              "icon": "lucide-file",
+              "title": "Declaring and obtaining variables in C"
             }
           }
         ],
@@ -182,14 +182,15 @@
   },
   "active": "09328748a14f6da1",
   "lastOpenFiles": [
+    "C/Notes/Vectors and Matrices in C.md",
+    "C/Notes/Conditionals in C.md",
+    "C/Codes/HelloWorld.c.md",
     "Course introduction.md",
     "C/Notes/Declaring and obtaining variables in C.md",
-    "C/Notes/Vectors and Matrices in C.md",
     "C/Notes/Loops in C.md",
     "C/Notes/Functions in C.md",
     "C/Notes/Exercises.md",
     "C/Notes/Dissecting the Hello world.md",
-    "C/Notes/Conditionals in C.md",
     "README.md",
     "Compiler.md",
     "Functions.md",
@@ -198,7 +199,6 @@
     "Objects.md",
     "Variables.md",
     "objects.md",
-    "C/Codes/HelloWorld.c.md",
     "Vectors.md",
     "C/Notes/C standard functions.md",
     "Images",
